@@ -20,17 +20,13 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
 - ##  Files Included
 - 
 - `Dashboard → <a href="https://app.powerbi.com/groups/me/reports/83a849d6-326c-40c1-9e1f-2e357b93b387/d29a0a17351d8dac2007?ctid=375ec110-05a4-437c-946a-2971e59e59fe&experience=power-bi">  Power.bi Link
-- 
-- `/images/` → <img width="1304" height="728" alt="Election 2024 (1)" src="https://github.com/user-attachments/assets/169f406d-171a-4192-af87-1a82375ef896" />
-              <img width="1302" height="738" alt="Election 2024 (2)" src="https://github.com/user-attachments/assets/14b89c53-2124-441c-9bbf-95cb694c16a3" />
-
 
 - `/DataSheets/` → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result</a>
 
-1 . National-Level Insights
+## 1  National-Level Insights
 
 NDA Alliance Leads Overall
 
@@ -54,7 +50,7 @@ Strong Regional Support for Allies
 
 TDP (16), JD(U) (12), and SHS (7) played crucial roles in strengthening the NDA coalition.
 
- 2️. I.N.D.I.A Alliance Insights
+## 2️. I.N.D.I.A Alliance Insights
 
 INC and SP Show Strong Comeback
 
@@ -66,7 +62,7 @@ Regional Parties Increase Representation
 
 Multiple smaller parties like DMK, AITC, and RJD contributed meaningfully, making the I.N.D.I.A alliance diverse and geographically widespread.
 
- 3️ State-Level (Uttar Pradesh) Insights
+ ## 3️ State-Level (Uttar Pradesh) Insights
 
 SP Dominates in Uttar Pradesh
 
@@ -86,7 +82,7 @@ Highly Competitive Political Landscape
 
 The small difference between I.N.D.I.A (43 seats) and NDA (36 seats) reflects a tightly contested state election, marking UP as the key battleground for future elections.
 
- 4️ Visual & Analytical Insights (from Dashboard View)
+ ## 4️ Visual & Analytical Insights (from Dashboard View)
 
 Interactive Comparison:
 The dashboard allows instant comparison of alliances, parties, and states — giving users a clear overview of political trends.
@@ -97,13 +93,18 @@ Pie and card visuals quickly highlight seat percentages and regional performance
 State Filter Feature:
 The user can select any state (like Uttar Pradesh) to get a deep dive analysis — making the report dynamic and insightful.
 
- 5️ Overall Analytical Summary
+## 5️ Overall Analytical Summary
 
 The dashboard provides a comprehensive visual analysis of India’s 2024 General Election, highlighting:
 
 NDA’s continued dominance nationally
 
 I.N.D.I.A’s significant regional growth
+
+## Dashboard Image 
+
+`/images/` → <img width="1304" height="728" alt="Election 2024 (1)" src="https://github.com/user-attachments/assets/169f406d-171a-4192-af87-1a82375ef896" />
+              <img width="1302" height="738" alt="Election 2024 (2)" src="https://github.com/user-attachments/assets/14b89c53-2124-441c-9bbf-95cb694c16a3" />
 
 
 
