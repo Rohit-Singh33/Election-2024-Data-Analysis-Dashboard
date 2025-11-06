@@ -30,4 +30,10 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result</a>
 
+##  Author
+**Rohit Singh**  
+## Data Analyst 
+## Email = rohitbijarniya5@gmail.com  
+## LinkedIn Profile (https://www.linkedin.com/in/rohit-singh-49866324b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXQdgs1UFQM%2BKrkaYNbpnKQ%3D%3D)
+
              
