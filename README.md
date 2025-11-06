@@ -18,11 +18,12 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
 - **Custom Visuals** for pie and card charts
 
 - ##  Files Included
-- 
 - Dashboard → <a href="https://app.powerbi.com/groups/me/reports/83a849d6-326c-40c1-9e1f-2e357b93b387/d29a0a17351d8dac2007?ctid=375ec110-05a4-437c-946a-2971e59e59fe&experience=power-bi">  Power.bi Link
+  
+- Dahboard screenshot  <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/Election%202024%20(1).png"> Image(1)</a>
+                        <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/Election%202024%20(2).png"> Image(2)</a>
 
-- 
-- `/DataSheets/` → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result</a>
+- DataSheets → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States</a>
              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result</a>
