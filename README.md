@@ -23,10 +23,10 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
 - Dahboard screenshot  <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/Election%202024%20(1).png"> Image(1)</a>
                         <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/Election%202024%20(2).png"> Image(2)</a>
 
-- DataSheets → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result</a>
-             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result</a>
-             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States</a>
-             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result</a>
+- DataSheets → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result//  </a>
+             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result//  </a>
+             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States//  </a>
+             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result//  </a>
 
 ## 1  National-Level Insights
 
