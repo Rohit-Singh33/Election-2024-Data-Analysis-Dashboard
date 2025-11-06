@@ -1,4 +1,4 @@
-<img width="1302" height="738" alt="Election 2024 (2)" src="https://github.com/user-attachments/assets/735289b3-7dd8-4010-93eb-a735f1d10621" />#  India General Election Results Dashboard 2024 (Power BI)
+#  India General Election Results Dashboard 2024 (Power BI)
 
 ## Overview
 This Power BI dashboard visualizes the **2024 Indian General Election Results** with clear insights into national and state-level outcomes.  
