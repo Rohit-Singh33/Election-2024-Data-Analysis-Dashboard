@@ -23,4 +23,4 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
               <img width="1302" height="738" alt="Election 2024 (2)" src="https://github.com/user-attachments/assets/14b89c53-2124-441c-9bbf-95cb694c16a3" />
 
 
-- `/data/` → 
+- `/data/` → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv">Data</a>
