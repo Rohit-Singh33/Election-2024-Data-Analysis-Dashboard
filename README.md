@@ -24,8 +24,8 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
 
 
 - `/data/` → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result</a>
-             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv"> PartyWise_result</a>
-             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv"> States</a>
-             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv"> statewise_result</a>
+             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result</a>
+             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States</a>
+             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result</a>
 
              
