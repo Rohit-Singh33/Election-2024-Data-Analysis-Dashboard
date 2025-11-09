@@ -102,12 +102,6 @@ NDA’s continued dominance nationally
 
 I.N.D.I.A’s significant regional growth
 
-## Dashboard Image 
-
-`/images/` → <img width="1304" height="728" alt="Election 2024 (1)" src="https://github.com/user-attachments/assets/169f406d-171a-4192-af87-1a82375ef896" />
-              <img width="1302" height="738" alt="Election 2024 (2)" src="https://github.com/user-attachments/assets/14b89c53-2124-441c-9bbf-95cb694c16a3" />
-
-
 
 ##  Author
 **Rohit Singh**  
