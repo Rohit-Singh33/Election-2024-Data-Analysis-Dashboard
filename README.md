@@ -22,10 +22,10 @@ It provides an interactive breakdown of seats by alliance, party, and candidate.
 
 - Dashboard → <a href="https://app.powerbi.com/groups/me/reports/83a849d6-326c-40c1-9e1f-2e357b93b387/d29a0a17351d8dac2007?ctid=375ec110-05a4-437c-946a-2971e59e59fe&experience=power-bi">  Power.bi Link
 
-- DataSheets → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result  </a>
--             <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result </a>
- -            <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States  </a>
- -            <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result  </a>
+- DataSheets → <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/constituencywise_results.csv"> ConstituencyWise_result  /  </a>
+              <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/partywise_results.csv">   PartyWise_result  /</a>
+          <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/states.csv">   States  /  </a>
+            <a href="https://github.com/Rohit-Singh33/Data-Analysis-Dashboard/blob/main/statewise_results.csv">   statewise_result  /  </a>
 
 ## 1  National-Level Insights
 
